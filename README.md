@@ -26,7 +26,7 @@ Before running the tests, ensure you have the following prerequisites installed:
 
 - Python (version 3.11.4)
 - pytest (version 8.1.1)
-- pytest-bdd (version X.X.X)
+- pytest-bdd 
 - Selenium WebDriver
 - Chrome browser
 - PyCharm IDE (optional, but recommended for development)
