@@ -84,4 +84,3 @@ There are several potential areas for future work and improvement, including:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-.
